@@ -16,8 +16,7 @@ header:
 <center>
 <a href="https://sites.harvard.edu/computefest/" style="display: inline-block; text-decoration: none; color: white; background-color: #872222; border: none; padding: 10px 20px; margin: 10px 0; cursor: pointer;">PINNs course: Compute Fest 2024</a>
 </center>
-
-**Instructor:**  Pavlos Protopapas, Scientific Program Director and Lecturer at the Harvard John A. Paulson School of Engineering and Applied Sciences.
+**Instructor:**  <a href="https://www.stellardnn.org/people.html">Pavlos Protopapas</a> and David Sondak
 
 
 # Course Introduction
@@ -26,22 +25,9 @@ Welcome! Dive deep into the intricate world of Physics-Informed Neural Networks 
 
 Our PINNs course will have live lectures, hands-on coding exercises, and quizzes designed for thorough self-assessment. 
 
-Throughout your journey, our dedicated teaching team stands ready to guide and support, answering queries on our course discussion forum and during live online office hours.
+Our dedicated teaching team stands ready to guide and support, answering queries on our course discussion forum and during live online office hours.
 
-To embark on this enlightening experience, simply fill out the sign-up form provided. Once your request is approved, an email containing further directions awaits you. Let's unravel the mysteries of PINNs together!
-
-<center>
-<div style="display: inline-block; text-decoration: none; border-style: solid; border-color #872222; padding: 10px 20px; margin: 10px 0; cursor: pointer;">
-The course kicks off with a live zoom session on XX at XX AM EST.  We hope you can join this kick-off event, but don't worry if you can't!</div>
-</center>
-
-To make the learning experience enjoyable and engaging, we will be rewarding students who excel in completing quizzes/exercises and actively participate in the forum with special awards. On July 15, we will host a live session with the teaching staff to discuss progress, answer questions, and announce the mid-summer winners. These winners will receive exclusive Bedrock t-shirts. 
-
-Lastly, on August 20th, we will hold the final Bedrock session, during which we will reveal the overall winners. The ultimate prize for the winners will be an exclusive dinner with the instructor at a location in Cambridge.
-
-
-
-## Course Overview 
+## Course Overview
 
 - Introduction to Differential Equations: Basic concepts, classifications, and real-world applications
 - Numerical Methods for DE: Techniques to solve differential equations using computational algorithms
@@ -80,7 +66,7 @@ For questions about the course content, after you have tried to troubleshoot you
 
 ### Diversity and Inclusion Statement
 
-We actively seek and welcome people of diverse identities, from across the spectrum of disciplines and methods since Artificial Intelligence (AI) increasingly mediates our social, cultural, economic, and political interactions [1]. 
+We actively seek and welcome people of diverse identities, from across the spectrum of disciplines and methods since Artificial Intelligence (AI) increasingly mediates our social, cultural, economic, and political interactions. 
 
 We believe in creating and maintaining an inclusive learning environment where all members feel safe, respected, and capable of producing their best work. 
 
@@ -89,6 +75,3 @@ We commit to an experience for all participants that is free from -- Harassment,
 - Offensive comments related to age, race, religion, creed, color, gender (including transgender/gender identity/gender expression), sexual orientation, medical condition, physical or intellectual disability, pregnancy, or medical conditions, national origin or ancestry.
 - Intimidation, personal attacks, harassment, unnecessary disruption of talks during any of the learning activities.
 
-## Reference: 
-
-[1] K. Stathoulopoulos and J. C. Mateos-Garcia, “Gender Diversity in AI Research,” SSRN Electronic Journal, 2019 [Online]. Available: [http://dx.doi.org/10.2139/ssrn.3428240](https://dx.doi.org/10.2139/ssrn.3428240).‌
