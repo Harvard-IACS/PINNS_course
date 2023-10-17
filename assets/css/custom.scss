@@ -1,0 +1,24 @@
+@import "minimal-mistakes";
+
+html {
+  font-size: 36px; // change to whatever
+
+  @include breakpoint($medium) {
+    font-size: 58px; // change to whatever
+  }
+
+  @include breakpoint($large) {
+    font-size: 50px; // change to whatever
+  }
+
+  @include breakpoint($x-large) {
+    font-size: 52px; // change to whatever
+  }
+}
+
+
+.main-content {
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
