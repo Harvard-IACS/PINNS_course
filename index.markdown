@@ -1,9 +1,9 @@
 ---
 layout: splash
 permalink: /
-title: "Bedrock Data Science"
+title: "Compute Fest 2024 : PINNs Course"
 header: 
-  overlay_image: /assets/images/BedrockPythons.png
+  overlay_image: /assets/images/pinns_banner.png
   text_color: red
 ---
 
@@ -14,7 +14,7 @@ header:
 </style>
 
 <center>
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSdNw6wnknMGJ-No3wpvh_1KGZ7BdvuUYAfthboMYwKWWMbfcg/viewform" style="display: inline-block; text-decoration: none; color: white; background-color: #872222; border: none; padding: 10px 20px; margin: 10px 0; cursor: pointer;">Bedrock Data Science: Summer 2023 Sign-Up Form</a>
+<a href="https://google.com" style="display: inline-block; text-decoration: none; color: white; background-color: #872222; border: none; padding: 10px 20px; margin: 10px 0; cursor: pointer;">PINNs course: Compute Fest 2024 Sign-Up Form</a>
 </center>
 
 **Instructor:**  Pavlos Protopapas, Scientific Program Director and Lecturer at the Harvard John A. Paulson School of Engineering and Applied Sciences.
@@ -22,19 +22,17 @@ header:
 
 # Course Introduction
 
-Welcome! The objective of this course is to serve as a 'refresher' for fundamental concepts in math, statistics, and programming required to undertake a course in machine learning, data science, or AI similar to Harvard's CS109a (Data Science 1) or an equivalent course.
+Welcome! Dive deep into the intricate world of Physics-Informed Neural Networks (PINNs) with our comprehensive course. This program is meticulously crafted to bridge the gap between traditional differential equations and the ever-evolving domain of neural networks. Perfect for those acquainted with machine learning and eager to apply these concepts to differential equations.
 
-The Bedrock course consists primarily of pre-recorded lectures and tutorial videos with accompanying coding exercises and quizzes for self-assessment.
+Our PINNs course will have live lectures, hands-on coding exercises, and quizzes designed for thorough self-assessment. 
 
-Participation is entirely optional and you can progress through the material at your own pace.  This course will have no effect on any grades nor on your standing within your program. 
+Throughout your journey, our dedicated teaching team stands ready to guide and support, answering queries on our course discussion forum and during live online office hours.
 
-As you progress in your learning journey, our friendly teaching staff will be here to support you through the course discussion forum as well as live online office hours.
-
-You can use the sign-up form linked above to request access to the course. Once approved, you'll receive an email with further instructions.
+To embark on this enlightening experience, simply fill out the sign-up form provided. Once your request is approved, an email containing further directions awaits you. Let's unravel the mysteries of PINNs together!
 
 <center>
 <div style="display: inline-block; text-decoration: none; border-style: solid; border-color #872222; padding: 10px 20px; margin: 10px 0; cursor: pointer;">
-The course kicks off with a live zoom session on Thursday, June 15 at 10:30 AM EST.  We hope you can join this kick-off event, but don't worry if you can't!</div>
+The course kicks off with a live zoom session on XX at XX AM EST.  We hope you can join this kick-off event, but don't worry if you can't!</div>
 </center>
 
 To make the learning experience enjoyable and engaging, we will be rewarding students who excel in completing quizzes/exercises and actively participate in the forum with special awards. On July 15, we will host a live session with the teaching staff to discuss progress, answer questions, and announce the mid-summer winners. These winners will receive exclusive Bedrock t-shirts. 
@@ -45,14 +43,15 @@ Lastly, on August 20th, we will hold the final Bedrock session, during which we 
 
 ## Course Overview 
 
-- Basic Python: Data types, data structures, functions
-- Advanced Python: Classes, dunder methods, decorators
-- Python Libraries: Pandas, Matplotlib, Numpy, sklearn 
-- Basic Probability & Statistics: Random Variable, Probability Density Functions and Mass Density Functions, point estimates 
-- Basic Linear Algebra & Calculus
+- Introduction to Differential Equations: Basic concepts, classifications, and real-world applications
+- Numerical Methods for DE: Techniques to solve differential equations using computational algorithms
+- Neural Networks and DE: Exploring NN-based methods for solving differential equations
+- Setting Initial Conditions: Handling initial and boundary values 
+- Optimization and Sampling: Dive into methods of optimization and various sampling techniques
+- Transfer Learning for PINNs: Understand the application of transfer learning specifically in the PINNs realm
+- Error Bounds and Uncertainty: Grasp the concepts of error bounds and how to quantify uncertainties in PINNs
 
-
-Some prior programming experience in any language and previous exposure to calculus is assumed. Again, the goal is to refresh those topics that you feel have become a bit 'rusty' and/or to fill in any gaps in your understanding. Those starting from scratch with no previous experience will likely find things move too fast for them.
+It would be helpful to have a foundational understanding of differential equations and a basic grasp of neural network concepts. This course is tailored for those looking to refresh their understanding of advanced topics or to fill any gaps in prior knowledge. Those entirely new to differential equations or neural networks may find the pace a tad challenging, but remember, our support team is here to guide you every step of the way.
 
 ## Course Components
 

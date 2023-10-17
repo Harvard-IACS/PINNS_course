@@ -18,12 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Bedrock 
+title: PINNs_course
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Foundational concepts and skills to launch your data science journey!
+  Jump into the exciting world of Physics-Informed Neural Networks!
 baseurl: / # the subpath of your site, e.g. /blog
-url: "https://harvard-iacs.github.io/Bedrock/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://harvard-iacs.github.io/PINNs_course/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
