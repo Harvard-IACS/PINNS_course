@@ -14,7 +14,7 @@ header:
 </style>
 
 <center>
-<a href="https://google.com" style="display: inline-block; text-decoration: none; color: white; background-color: #872222; border: none; padding: 10px 20px; margin: 10px 0; cursor: pointer;">PINNs course: Compute Fest 2024 Sign-Up Form</a>
+<a href="https://sites.harvard.edu/computefest/" style="display: inline-block; text-decoration: none; color: white; background-color: #872222; border: none; padding: 10px 20px; margin: 10px 0; cursor: pointer;">PINNs course: Compute Fest 2024</a>
 </center>
 
 **Instructor:**  Pavlos Protopapas, Scientific Program Director and Lecturer at the Harvard John A. Paulson School of Engineering and Applied Sciences.
