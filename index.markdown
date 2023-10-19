@@ -59,10 +59,10 @@ Most lessons also include exercises and quizzes. Quizzes are for self-assessment
 
 ### Getting Help
 
-For questions about the course content, after you have tried to troubleshoot yourselves, the process to get help is:
+For questions about the course content, after you have tried to troubleshoot on your own, the process to get help is as follows:
 
-- Post the question on the course discussion forum. Note that forum posts are visible to everyone. The teaching staff monitors the posts. You are encouraged to answer your peers' questions! 😁 
-- Attend an online office hour (schedule TBD).
+- Post your question on the course discussion forum. Note that forum posts are visible to everyone, and the teaching staff monitors these posts. You are encouraged to answer your peers' questions! 😁
+- Attend an online office hour (schedule TBD)."
 
 ### Diversity and Inclusion Statement
 
