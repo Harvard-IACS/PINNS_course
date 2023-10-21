@@ -16,16 +16,22 @@ header:
 <center>
 <a href="https://sites.harvard.edu/computefest/" style="display: inline-block; text-decoration: none; color: white; background-color: #872222; border: none; padding: 10px 20px; margin: 10px 0; cursor: pointer;">PINNs course: Compute Fest 2024</a>
 </center>
-**Instructor:**  <a href="https://www.stellardnn.org/people.html">Pavlos Protopapas</a> and David Sondak
+**Instructor:**  <a href="https://www.stellardnn.org/people.html">Pavlos Protopapas</a> and <a href="https://dsondak.github.io">David Sondak</a>
+
+**Teaching Assistants:** Shuheng Liu, Kshitij Parwani, Wanzhou Lei, Lakshay Chawla  
 
 
 # Course Introduction
 
-Welcome! Dive deep into the intricate world of Physics-Informed Neural Networks (PINNs) with our comprehensive course. This program is meticulously crafted to bridge the gap between traditional differential equations and the ever-evolving domain of neural networks. Perfect for those acquainted with machine learning and eager to apply these concepts to differential equations.
+Welcome to the Course on Physics-Informed Neural Networks (PINNs)
 
-Our PINNs course will have live lectures, hands-on coding exercises, and quizzes designed for thorough self-assessment. 
+We are thrilled to present this course as one of the very few comprehensive programs on Physics-Informed Neural Networks (PINNs). Carefully curated, this course serves as a vital link between the traditional field of differential equations and the rapidly evolving discipline of neural networks. It is optimally designed for those who possess a foundational understanding of machine learning and are keen to apply this knowledge to differential equations.
 
-Our dedicated teaching team stands ready to guide and support, answering queries on our course discussion forum and during live online office hours.
+The course features live lectures, hands-on coding exercises, and self-assessment quizzes to offer a well-rounded educational experience.
+
+Our dedicated team of educators stands ready to provide guidance and support, addressing your questions both through our specialized course discussion forum and during live online office hours.
+
+
 
 ## Course Overview
 
