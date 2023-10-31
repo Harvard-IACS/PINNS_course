@@ -18,7 +18,7 @@ header:
 </center>
 **Instructor:**  <a href="https://www.stellardnn.org/people.html">Pavlos Protopapas</a> and <a href="https://dsondak.github.io">David Sondak</a>
 
-**Teaching Assistants:** Shuheng Liu, Kshitij Parwani, Wanzhou Lei, Lakshay Chawla  
+**Teaching Assistants:** Shuheng Liu, <a href='https://www.linkedin.com/in/kshitij-parwani/?originalSubdomain=in'>Kshitij Parwani</a>, Wanzhou Lei, Lakshay Chawla  
 
 
 # Course Introduction
