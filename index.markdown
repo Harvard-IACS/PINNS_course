@@ -18,7 +18,7 @@ header:
 </center>
 **Instructor:**  <a href="https://www.stellardnn.org/people.html">Pavlos Protopapas</a> and <a href="https://dsondak.github.io">David Sondak</a>
 
-**Teaching Assistants:** <a href="https://www.linkedin.com/in/shuhengliu/">Shuheng Liu</a>, <a href='https://www.linkedin.com/in/kshitij-parwani/?originalSubdomain=in'>Kshitij Parwani</a>, <a href = "https://www.linkedin.com/in/wanzhou-lei-b2215a294/"> Wanzhou Lei </a>, <a href="https://www.linkedin.com/in/lakshaychawla13/">Lakshay Chawla </a>
+**Teaching Assistants:** <a href="https://www.linkedin.com/in/shuhengliu/">Shuheng Liu</a>, <a href='https://www.linkedin.com/in/kshitij-parwani/?originalSubdomain=in'>Kshitij Parwani</a>, <a href = "https://www.linkedin.com/in/wanzhou-lei-b2215a294/"> Wanzhou Lei </a>, <a href="https://www.linkedin.com/in/lakshaychawla13/">Lakshay Chawla </a>, <a href=" https://www.linkedin.com/in/sathvik-b-15b54b136/">Sathvik Bhagavan</a>
 
 
 # Course Introduction
