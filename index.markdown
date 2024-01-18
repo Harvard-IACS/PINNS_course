@@ -81,15 +81,20 @@ We commit to an experience for all participants that is free from -- Harassment,
 - Offensive comments related to age, race, religion, creed, color, gender (including transgender/gender identity/gender expression), sexual orientation, medical condition, physical or intellectual disability, pregnancy, or medical conditions, national origin or ancestry.
 - Intimidation, personal attacks, harassment, unnecessary disruption of talks during any of the learning activities.
 
-### Policy on Usage of Publicly Available Class Material
-Permitted Use: Class Material is made available primarily for the educational benefit of enrolled students and may be used by others for personal educational purposes only.
+## Policy Governing the Utilization of Publicly Accessible Educational Resources
 
-#### Prohibited Use:
-Selling or commercializing any part of the Class Material.
-Sharing, distributing, or publishing any part of the Class Material in any form or through any medium without explicit permission from the instructor.
-Modifying or altering the Class Material to create derivative works.
-Attribution: Any permitted use of the Class Material must carry appropriate acknowledgment of the source (e.g., the instructor’s name, course title, and institution).
+Scope of Permissible Utilization: These Educational Resources are primarily provided for the academic enrichment of students registered in the course. Others may access these resources solely for individual educational purposes.
 
-#### Enforcement: Failure to comply with this policy may result in legal action and/or disciplinary measures as applicable.
-CONSENT:
-By accessing and using the Class Material, you indicate your acknowledgment and acceptance of this policy.
+### Prohibitions on Usage:
+
+- Commercial exploitation or sale of any part of the Educational Resources is categorically prohibited.
+
+- Redistribution, dissemination, or publication of any segment of the Educational Resources, in any format or through any medium, is strictly forbidden without prior explicit permission from the course instructor.
+
+- Alteration, modification, or the creation of derivative works from the Educational Resources is not authorized without prior permission.
+
+### Requirement for Permission: Any use of the Educational Resources outside the scope of individual educational purposes necessitates explicit prior permission from the course instructor.
+
+### Enforcement of Policy: Violation of this policy may lead to legal action and/or disciplinary measures in accordance with applicable regulations.
+
+### Consent and Compliance: By accessing and utilizing the Educational Resources, you are indicating your comprehension of and compliance with this policy.
