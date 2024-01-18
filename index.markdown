@@ -81,3 +81,15 @@ We commit to an experience for all participants that is free from -- Harassment,
 - Offensive comments related to age, race, religion, creed, color, gender (including transgender/gender identity/gender expression), sexual orientation, medical condition, physical or intellectual disability, pregnancy, or medical conditions, national origin or ancestry.
 - Intimidation, personal attacks, harassment, unnecessary disruption of talks during any of the learning activities.
 
+### Policy on Usage of Publicly Available Class Material
+Permitted Use: Class Material is made available primarily for the educational benefit of enrolled students and may be used by others for personal educational purposes only.
+
+#### Prohibited Use:
+Selling or commercializing any part of the Class Material.
+Sharing, distributing, or publishing any part of the Class Material in any form or through any medium without explicit permission from the instructor.
+Modifying or altering the Class Material to create derivative works.
+Attribution: Any permitted use of the Class Material must carry appropriate acknowledgment of the source (e.g., the instructor’s name, course title, and institution).
+
+#### Enforcement: Failure to comply with this policy may result in legal action and/or disciplinary measures as applicable.
+CONSENT:
+By accessing and using the Class Material, you indicate your acknowledgment and acceptance of this policy.
